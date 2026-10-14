@@ -1,1 +1,150 @@
-IyBBbmltYXRpb24gUmVjaXBlcwoKUmV1c2FibGUgcGF0dGVybnMgZnJvbSBhIHByb2R1Y3Rpb24gYmlsaW5ndWFsIHRhbGtpbmctaGVhZCBwcm9qZWN0LgoKIyMgSG9vayAob3BlbmluZyBraW5ldGljIHR5cG9ncmFwaHkpCgoqKlBhdHRlcm4qKjogdHJhbnNwYXJlbnQgUE5HIHNlcXVlbmNlIG92ZXJsYWlkIG9uIHRoZSB0YWxraW5nIGhlYWQgKGBob29rX2ZyYW1lcy8lMDRkLnBuZ2ApLgoqKlNjcmlwdCoqOiBgbWFrZV9ob29rLnB5YAoKLSBCaWcga2V5d29yZHMgdHlwZSBvdXQgY2hhcmFjdGVyLWJ5LWNoYXJhY3RlciAodHlwZXdyaXRlciwgfjAuMTDigJMwLjE0cy9jaGFyKSBzeW5jZWQgdG8gc3BlZWNoLgotIFN0eWxlOiBwbGFpbiB3aGl0ZSB0ZXh0LCBubyBncmFkaWVudC9nbG93L2JhY2tncm91bmQgKHJlY29tbWVuZGVkIGRlZmF1bHQpLiBUaGluIGRhcmsgb3V0bGluZSBvbmx5IGlmIHJlYWRhYmlsaXR5IG5lZWRzIGl0IOKAlCB0aGUgcmVmZXJlbmNlIHByb2R1Y3Rpb24gdXNlZCBwdXJlIHdoaXRlIHdpdGggemVybyBzdHJva2UuCi0gUG9zaXRpb246IGFib3ZlIGhlYWQgb3IgYmVsb3cgY2hpbiwgTkVWRVIgb3ZlciBleWVzL2ZhY2UuCi0gUG9wdXBzIChtYXNjb3QsIGxvZ28sIHF1b3RlIGdyaWRzKSB1c2Ugc3ByaW5nIHNjYWxlLWluIChgZWFzZS1vdXQtYmFja2ApLCBwb3NpdGlvbmVkIHRvIGF2b2lkIGZhY2UuCi0gOC1pdGVtIGdyaWRzOiA0IGNvbHMgw5cgMiByb3dzIGZpdHMgYmV0dGVyIHRoYW4gMsOXNCBmb3IgOToxNjsga2VlcCBjbGVhciBvZiBzdWJ0aXRsZSB6b25lIChib3R0b20gNDAwcHgpLgoKKipUaW1pbmcgcnVsZSoqOiBob29rIGlzIH44czsgZXZlcnkgZWxlbWVudCBtdXN0IGxhbmQgb24gaXRzIHNwb2tlbiB3b3JkIChjaGVjayBgc3Vic19mdWxsLmFzc2AgdGltZXN0YW1wcykuCgojIyBEYXJrLWNhcmQgc2VnbWVudHMgKG5vIEItcm9sbCBzY2VuZXMpCgoqKlBhdHRlcm4qKjogZnVsbC1zY3JlZW4gZGFyayB2aWRlbyB3aXRoIHN0YWdnZXJlZCByZXZlYWxzIChgbWFrZV9hbmltc192Mi5weWAg4oaSIGBhbmltTmQubXA0YCkuCioqV2hlbioqOiBzY2VuZSBoYXMgbm8gQi1yb2xsOyBzdGF0aWMgYmxhY2sgd291bGQgZmVlbCAiZHJ5Ii4KCkVsZW1lbnRzLCBpbiBvcmRlcjoKMS4gU21hbGwgcGlsbCBsYWJlbCB0b3AtbGVmdCAoZS5nLiAiTXVzZSIpIOKAlCBmYWRlcyBpbiBhdCAw4oCTMC4zcy4KMi4gVGl0bGUg4oCUIHR5cGV3cml0ZXIgYXQgMC4zcyAofjAuMTVzL2NoYXIpLCBhY2NlbnQgY29sb3Igb24ga2V5d29yZC4KMy4gQ29udGVudCBib3gg4oCUIHJvdW5kZWQgcmVjdCB3aXRoIGdsb3dpbmcgYm9yZGVyLCBmYWRlcyArIHJpc2VzIGluIGF0IDEuNeKAkzEuOHMuCjQuIEZsb3cgaW5kaWNhdG9yIChvcHRpb25hbCkg4oCUIGFuaW1hdGVkIGRvdHMvbGluZSBzaG93aW5nIGEgcHJvY2VzcyAoZS5nLiBwaG9uZSDihpIgR2l0SHViKSwgbG9vcHMgZm9yIHRoZSBzZWdtZW50IGR1cmF0aW9uLgo1LiBCaWxpbmd1YWwgY2FwdGlvbiBib3R0b20g4oCUIGZhZGVzIGluIHdpdGggdGhlIGNvbnRlbnQgYm94LgoKKipDcml0aWNhbCoqOiBmaXJzdCB0ZXh0IHZpc2libGUgd2l0aGluIDAuM3Mgb2Ygc2VnbWVudCBzdGFydC4gQmFja2dyb3VuZCBoYXMgc2xvdy1kcmlmdGluZyBnbG93IG9yYnMgc28gbm8gZnJhbWUgaXMgZnVsbHkgc3RhdGljLgoKKipTRlgqKjogcG9wIG9uIGVhY2ggZWxlbWVudCBhcHBlYXJhbmNlLiBJbiBgYnVpbGRfZnVsbC5weWAsIGFkZCBkZWxheWVkIHBvcCBpbnN0YW5jZXM6CmBgYHB5dGhvbgpmb3IgdHQgaW4gWzg0LjgsIDg2LjMsIDExMC4zLCAxMTEuNV06ICAjIGFic29sdXRlIHNlY29uZHMKICAgIHNmeC5hcHBlbmQoZiJbMTc6YV1hZGVsYXk9e2ludCh0dCoxMDAwKX18e2ludCh0dCoxMDAwKX0sdm9sdW1lPTAuMzBbdHh7aW50KHR0KjEwKX1dIikKYGBgCkFuZCBpbmNsdWRlIGV2ZXJ5IGBbdHguLi5dYCBsYWJlbCBpbiB0aGUgYGFtaXhgIGlucHV0IGxpc3Qg4oCUIGEgbWlzc2luZyBsYWJlbCBmYWlscyB0aGUgd2hvbGUgYnVpbGQgKGByYzogMjM0YCkuCgojIyBCLXJvbGwgYmVhdHMKCioqUGF0dGVybioqOiBmdWxsLXNjcmVlbiBjdXRhd2F5IHdpdGggc3VidGxlIG1vdGlvbiAoYGJlYXRfKi5tcDRgIHZpYSBgbWFrZV9iZWF0cyoucHlgKS4KLSBTb3VyY2UgaW1hZ2Ug4oaSIEtlbiBCdXJucyAoc2xvdyB6b29tL3Bhbikgb3IgZ2VudGxlIHNjYWxlIHB1bHNlLgotIFByaXZhY3k6IHJ1biBgYmx1cl9icm9sbC5weWAgZmlyc3Q7IGJsdXIgbmFtZXMsIGFkZHJlc3NlcywgcGhvbmVzLCBjb21wYW55IGlkZW50aWZpZXJzLiBIZWF2aWVyIGlzIHNhZmVyIOKAlCBzaGUgYXNrZWQgdHdpY2UgZm9yIG1vcmUgYmx1cnJpbmcgb24gdGhlIGdvdmVybm1lbnQgZm9ybS4KLSBTdWJ0aXRsZXMgYnVybiBvbiB0b3AgKGZyb20gYHN1YnNfZnVsbC5hc3NgKS4KCiMjIENhcmRzICh3aGl0ZSBNZXRhIHN0eWxlKQoKKipQYXR0ZXJuKio6IGBtYWtlX2NhcmRzX3YyLnB5YCDihpIgYGNhcmROX2FuaW0ubXA0YC4KLSBXaGl0ZSBjYXJkLCBibHVl4oaScHVycGxlIGdyYWRpZW50IGhhaXJsaW5lIG9uIHRvcCwgU0NFTkUgbnVtYmVyIGluIE1ldGEgYmx1ZSwgY2VudGVyZWQgZGFyay1ncmF5IHRpdGxlLCBncmF5IEVOIHN1YnRpdGxlLCBibHVlLWRvdCBidWxsZXRzLCBibHVlIHBpbGwgZm9vdGVyIOKAlCBhbGwgY2VudGVyZWQuCi0gQW5pbWF0ZTogc2xpZGUgaW4gZnJvbSB0b3AgKDAuNHMgZWFzZS1vdXQpIOKGkiBidWxsZXQgdHlwZXdyaXRlciAofjE0IGNoYXJzL3MsIGJsdWUgY3Vyc29yKSDihpIgc2xpZGUgb3V0IGF0IHNjZW5lIGVuZC4KLSBQZXJzb24gcHVuY2gtaW4gMS4xNcOXIHN5bmNlZCB0byBjYXJkIGVudHJhbmNlLCBoZWFkIGZ1bGx5IHZpc2libGUgKE5PVCBkdXJpbmcgdGhlIG9wZW5pbmcgaG9vayDigJQgaG9vayBrZWVwcyBvcmlnaW5hbCBmcmFtaW5nIDE6MSkuCgojIyBFZGl0b3JpYWwgZXhwbGFpbmVyIHBhZ2VzIChyZWZlcmVuY2Ugc3R5bGUpCgoqKlJlZmVyZW5jZSoqOiBmdWxsLXNjcmVlbiBhbmltYXRlZCBleHBsYWluZXIgcmVlbHMgYnkgc2FuamFpLmJ1aWxkcyBvbiBJbnN0YWdyYW0gKERvdHMvTXVzZS9Hcm9rIGNvbXBhcmlzb247IEZpZ21hIE1ha2UgdnMgQ2hhdEdQVCB2cyBDbGF1ZGUgdGVzdCksIGZyYW1lLWFuYWx5emVkLiBObyBwcmVzZW50ZXIg4oCUIHRoZSBwYWdlcyB0aGVtc2VsdmVzIGNhcnJ5IHRoZSBuYXJyYXRpb24uIFRoaXMgcmVjaXBlIGJvcnJvd3MgdGhhdCBhbmltYXRpb24gbGFuZ3VhZ2UgYW5kIHJoeXRobSBmb3IgdGFsa2luZy1oZWFkIHZpZGVvcy4KCioqTG9vayDigJQgImVkaXRvcmlhbCBwYXBlciIqKiAoaGV4IGFwcHJveGltYXRpb25zIHJlYWQgZnJvbSBmcmFtZXMsIGNsb3NlIGVub3VnaCB0byByZWNyZWF0ZSk6Ci0gQmFja2dyb3VuZCBhbHRlcm5hdGVzIHBlciBjaGFwdGVyOiB3YXJtIGNyZWFtIGAjRjJFRkU5YCAocmFuZ2UgI0VGRURFOOKAkyNGM0YxRUIpIOKGlCBuZWFyLWJsYWNrIGAjMEUwRTEwYC4gRmxhdCBtYXR0ZSwgbmV2ZXIgcHVyZSB3aGl0ZTsgc3VidGxlIHZpZ25ldHRlIGRhcmtlbmluZyBhdCB0b3AvYm90dG9tIGVkZ2VzLiBUaGUgbGlnaHQvZGFyayBmdWxsLXBhZ2UgZmxpcCBJUyB0aGUgY2hhcHRlciB0cmFuc2l0aW9uIOKAlCBoYXJkIGN1dHMgb25seSwgbm8gc2xpZGVzL3pvb21zL2Rpc3NvbHZlcy4KLSBUZXh0OiBuZWFyLWJsYWNrIGAjMUIxQjFCYCBvbiBsaWdodCBwYWdlcywgd2hpdGUgb24gZGFyazsgc2Vjb25kYXJ5L21pY3JvIHRleHQgZ3JheSBgIzhFOEU5M2AgKGxpZ2h0KSAvIGAjQThBOEE4YCAoZGFyaykuCi0gSGVhZGxpbmU6IGxhcmdlIHRyYW5zaXRpb25hbCBzZXJpZiAoRGlkb25lLWxpa2U6IFBsYXlmYWlyIERpc3BsYXkgLyBFZGl0b3JpYWwgTmV3OyBDSks6IE5vdG8gU2VyaWYgQ0pLKSwgfjUwMOKAkzYwMCB3ZWlnaHQsIHJvbWFuICsgaXRhbGljIG1peGVkLiBPTkUgd29yZCBwZXIgaGVhZGxpbmUgaW4gYSBjb2xvcmVkIHNjcmlwdC9pdGFsaWMgYWNjZW50IOKAlCByZWQgYCNFNTQ4NERgLCBibHVlIGAjMkY3Q0Y2YCwgZ3JlZW4gYCMzNEM3NTlgLCBvcmFuZ2UgYCNFODYyMkNgLCBzYWxtb24gYCNFODgzNkJgLCBwdXJwbGUgYCM4QjZGRDhgLCBvciBhIHBpbmvihpJvcmFuZ2XihpJwdXJwbGUgZ3JhZGllbnQuIEFjY2VudCBuZXZlciBjb3ZlcnMgYSB3aG9sZSBzZW50ZW5jZS4KLSBFbGVtZW50czogd2hpdGUgYCNGRkZGRkZgIGNhcmRzIChyYWRpdXMgfjE44oCTMjRweCBvbiAxMDgwLXdpZGUgY2FudmFzLCBzb2Z0IG5ldXRyYWwgc2hhZG93KSBob2xkaW5nIGNoYXQgYnViYmxlcywgYXBwIHJvd3MsIGNhbGVuZGFyIHRpbGVzIChibHVlIGAjMkY3Q0Y2YCBkYXRlIGJsb2NrKSwgbm90aWZpY2F0aW9uIGNhcmRzLCB0YWIgcm93cyAoYWN0aXZlIHRhYiBmaWxsZWQgYCMyRjdDRjZgKTsgcGlsbCB0YWdzOyBibGFjayBtaWNyby1iYWRnZXMgKHNvbGlkIGJsYWNrIHBpbGwsIHdoaXRlIG1pY3JvLXRleHQsIGUuZy4gIuKIniBSRVBFQVRTIik7IHRoaW4gZG90dGVkIGNvbm5lY3RvciBsaW5lcyAobGlnaHQgZ3JheSwgfjLigJMzcHggZG90cyk7IGNpcmN1bGFyIGF2YXRhciBjaGlwczsgc2tlbGV0b24gcGxhY2Vob2xkZXIgYmFycyBgI0U2RTNEQ2A7IHBob3RvIGNhcmRzIHdpdGggZGFyayBzY3JpbSArIHNlcmlmIG92ZXJsYXkgdGV4dDsgZ3JlZW4tY2hlY2sgYCMzNEM3NTlgIC8gcmVkLVggYCNFNTQ4NERgIGljb24gYmFkZ2VzLiBTbWFsbCBnZW9tZXRyaWMgc2FucyBmb3IgbGFiZWxzL3BpbGxzL2NhcHRpb25zLiBDcmlzcCBkaWdpdGFsIGxpbmVzLCBubyBoYW5kLWRyYXduIHRleHR1cmUuCgoqKlBhZ2UgbGF5b3V0ICg5OjE2LCAxMDgww5cxOTIwKSoqIOKAlCBzdHJpY3RseSBjZW50ZXJlZCBjb21wb3NpdGlvbiwgc2lkZSBtYXJnaW5zIH45MOKAkzEyMHB4IChjb250ZW50IOKJiCA3NeKAkzgwJSBvZiB3aWR0aCksIG9uZSBpZGVhIHBlciBwYWdlLCBvbmx5IDPigJM3IGVsZW1lbnRzLCBnZW5lcm91cyBuZWdhdGl2ZSBzcGFjZToKLSBUb3AgfjEyJTogY2hhcHRlciBwaWxsLW5hdiwgY2VudGVyZWQgKGAwMSDigKYgLyAwMiDigKYgLyAwMyDigKZgLCBzbWFsbCB1cHBlcmNhc2Ugc2Fucywgd2lkZSBsZXR0ZXItc3BhY2luZywgfjIy4oCTMjZweDsgYWN0aXZlIHBpbGwgPSBibGFjayBmaWxsICsgd2hpdGUgdGV4dCBvbiBsaWdodCBwYWdlcywgd2hpdGUgZmlsbCArIGJsYWNrIHRleHQgb24gZGFyazsgaW5hY3RpdmUgPSB0cmFuc3BhcmVudCB3aXRoIHRoaW4gZ3JheSBvdXRsaW5lIGAjQzlDN0MxYCkuCi0gfjE14oCTMzUlOiBtaWNybyBraWNrZXIgKHVwcGVyY2FzZSwgfjAuMTXigJMwLjJlbSB0cmFja2luZywgfjIw4oCTMjZweCwgZ3JheSkgZGlyZWN0bHkgYWJvdmUgdGhlIGhlYWRsaW5lOyBoZWFkbGluZSBibG9jayBzdGFydHMgfjE4MOKAkzIyMHB4IGZyb20gdG9wLCB+MTAw4oCTMTMwcHggdHlwZSwgbGluZS1oZWlnaHQgfjEuMDXigJMxLjE1LCAy4oCTNCBzaG9ydCBsaW5lcywgY2VudGVyZWQuCi0gfjM14oCTODAlOiB0aGUgYW5pbWF0ZWQgYXJ0aWZhY3Qg4oCUIGNhcmRzLCBjb21wYXJpc29uIHRhYmxlIChhdmF0YXIgY29sdW1ucyDDlyByb3dzKSwgbm9kZSBkaWFncmFtLCB3aXJlZnJhbWUgKGRhc2hlZCBvdXRsaW5lLCBkaW1lbnNpb24gbGFiZWwgbGlrZSAiMzkwIMOXIDg0NCIgaW4gbWljcm8tdHlwZSkuIENhcmQtaW50ZXJuYWwgdGV4dCBpcyBsZWZ0LWFsaWduZWQ7IGV2ZXJ5dGhpbmcgZWxzZSBjZW50ZXJlZC4KLSB+ODXigJM5MiU6IGNhcHRpb24gc3RyaXAsIGNlbnRlcmVkLCBtYXggMiBsaW5lcywgfjYwcHggY2xlYXIgb2YgdGhlIGJvdHRvbSBlZGdlIChpbiB0aGUgcmVmZXJlbmNlOiBib2xkIHNhbnMga2FyYW9rZSwgfjM24oCTNDRweCkuCgoqKkVudHJhbmNlIGdyYW1tYXIgKHRoZSBjb3JlIG9mIHRoZSBzdHlsZSkqKjoKLSBIZWFkbGluZSBhcHBlYXJzIFdPUkQgQlkgV09SRCAofjAuMjXigJMwLjRzIHBlciB3b3JkKSwgbGlwLXN5bmNlZDsgdGhlIGFjY2VudCB3b3JkIHBvcHMgaW4gc2xpZ2h0bHkgYWZ0ZXIgaXRzIG5laWdoYm9ycy4KLSBCb2R5IGVsZW1lbnRzIHN0YWdnZXIgaW4gb25lIGV2ZXJ5IH4wLjXigJMxcywgZWFjaCB0cmlnZ2VyZWQgYnkgdGhlIG5leHQgbmFycmF0aW9uIHBocmFzZTogY2FyZHMgc2xpZGUgdXAgKyBmYWRlOyBwaWxscyBwb3Agd2l0aCBhIHRpbnkgc2NhbGUgYm91bmNlOyBkb3R0ZWQgbGluZXMgRFJBVyBwcm9ncmVzc2l2ZWx5IG5vZGXihpJub2RlICh+MXMpOyB0YWJsZSByb3dzIGZpbGwgbGVmdOKGknJpZ2h0IGFzIHNrZWxldG9uIGJhcnMsIHRoZW4gcmVzb2x2ZSBpbnRvIHJlYWwgY29udGVudC4KLSBUZXh0L3Byb21wdCBjYXJkcyB0eXBlIGNoYXJhY3Rlci1ieS1jaGFyYWN0ZXIgd2l0aCBhIGJsaW5raW5nIGNhcmV0ICh+MzDigJM1MG1zL2NoYXIpLgotIFdpcmVmcmFtZXMgYnVpbGQgcHJvZ3Jlc3NpdmVseTogZGFzaGVkIG91dGxpbmUg4oaSIHNrZWxldG9uIGJsb2NrcyDihpIgZmlsbGVkIGNvbnRlbnQg4oaSIGZsb2F0aW5nIHBpbGwgdGFncyBwb3AgaW4gYXJvdW5kIGl0OyBjaGVja21hcmtzL2RpbWVuc2lvbnMgYW5ub3RhdGUgbGFzdC4KLSAqKkFjY3VtdWxhdGlvbiwgbm90IHJlcGxhY2VtZW50Kio6IGVsZW1lbnRzIHN0YXk7IHRoZSBwYWdlIGJ1aWxkcyB1cC4gTmV2ZXIgY2xlYXIgdGhlIHBhZ2UgbWlkLWJ1aWxkLgoKKipSaHl0aG0qKjogcGFnZSBob2xkIH404oCTN3MgKGxvbmdlciBvbiBhcnRpZmFjdCBwYWdlcyBzbyB0aGUgYnVpbGQgZmluaXNoZXMpOyBuZXcgcmV2ZWFsIGV2ZXJ5IH4x4oCTMnMsIG9uZSBwZXIgbmFycmF0aW9uIHBocmFzZTsgY2hhcHRlciBjaGFuZ2UgPSBoYXJkIGN1dCArIGJhY2tncm91bmQgZmxpcC4KCioqVGFsa2luZy1oZWFkIGFkYXB0YXRpb24qKjoKLSBUaGUgY3JlYXRvciBzdGF5cyBmdWxsLXNjcmVlbiB0YWxraW5nOyBjdXQgdG8gYW4gZWRpdG9yaWFsIHBhZ2Ugb25seSB3aGlsZSBleHBsYWluaW5nIGEgY29uY2VwdC9saXN0L2NvbXBhcmlzb24sIHRoZW4gaGFyZC1jdXQgYmFjay4KLSBDaGFwdGVyIHBpbGwtbmF2IG1hcHMgdG8gc2NlbmUgcGlsbHMgKGAwMSDigKYgwrcgMDIg4oCmYCksIGFjdGl2ZSA9IGN1cnJlbnQgc2NlbmUuCi0gS2VlcCB0aGUgcHJvZHVjdGlvbidzIHN1YnRpdGxlIGZvcm1hdCBidXJuZWQgb3ZlciB0aGUgcGFnZSdzIGJvdHRvbSB6b25lICh0aGUgcmVmZXJlbmNlIHVzZXMgYm9sZC1zYW5zIGthcmFva2Ugd29yZC1ieS13b3JkIGNhcHRpb25zIOKAlCBhbiBhbHRlcm5hdGl2ZSBpZiB0aGUgZm9ybWF0IGFsbG93cyBzaW5nbGUtbGFuZ3VhZ2UgY2FwdGlvbnMpLgotIFBpY2sgYSBkZWZhdWx0IHBhZ2UgdG9uZSAobmVhci1ibGFjayBtYXRjaGVzIGRhcmstY2FyZCBzeXN0ZW1zOyBjcmVhbSBpcyB0aGUgY29udHJhc3QgZmxpcCkgYW5kIHN0YXkgY29uc2lzdGVudCB3aXRoaW4gYSB2aWRlby4KCiMjIEJ1aWxkICYgY29tcG9zaXRlCgpgYnVpbGRfZnVsbC5weWAgYXNzZW1ibGVzOiBgW3NyY11bY2FyZHNdW2JlYXRzXVthbmltc11bc2Z4XVtob29rX2ZyYW1lc11gIHZpYSBvbmUgYGZpbHRlcl9jb21wbGV4YC4KLSBWaWRlbzogYHgyNjRgL2BsaWJ4MjY0YCwgYHl1djQyMHBgLCAxMDgww5cxOTIwLgotIEF1ZGlvOiB2b2ljZSA9IGBhdHJpbWAvYGFzZXRwdHNgIG9ubHk7IFNGWCBtaXhlZCB3aXRoIGBhbWl4PW5vcm1hbGl6ZT0wYC4KLSBTdWJ0aXRsZXMgYnVybmVkIHdpdGggYGFzc2AgZmlsdGVyIGZyb20gYHN1YnNfZnVsbC5hc3NgLgoKKipDb3B5LXBhc3RlIGdvdGNoYSoqOiBgY3AgLXIgL3RtcC9ob29rIGhvb2tfZnJhbWVzYCBkb2VzIE5PVCByZXBsYWNlIGFuIGV4aXN0aW5nIGRpciDigJQgaXQgbmVzdHMuIEFsd2F5cyBgcm0gLXJmIGhvb2tfZnJhbWVzYCBmaXJzdC4KCiMjIE51bWJlci9kYXRhIHByZXNlbnRhdGlvbiAoY2hhcnQgc3R5bGUpCgoqKlJlZmVyZW5jZSoqOiDlpKfmlrlCaWdGYW5nLCAiV2lsbCBCaXRjb2luIFJlYWxseSBIaXQgJDEgTWlsbGlvbiBQZXIgQ29pbj8iIChZb3VUdWJlKSwgZnJhbWUtYW5hbHl6ZWQuIEEgZGVkaWNhdGVkIHN0eWxlIGZvciBwcmVzZW50aW5nIE5VTUJFUlMgaW4gZmluYW5jZS9kYXRhIGV4cGxhaW5lcnMuIFRoZSByZWZlcmVuY2UgaXMgMTY6OTsgdGhlIHByb3BvcnRpb25zIGJlbG93IGFkYXB0IHRvIDk6MTYgKGhlcm8gbnVtYmVyIOKJiCAxNeKAkzIwJSBvZiBmcmFtZSBoZWlnaHQ7IGNoYXJ0IGluIHRoZSBtaWRkbGUgYmFuZDsga2VlcCB0aGUgc3VidGl0bGUgc2FmZSB6b25lIGNsZWFyKS4KKirimqDvuI8gU291bmQgZGVzaWduIE5PVCB2ZXJpZmllZCBpbiB0aGUgc291cmNlIGFuYWx5c2lzKiogKHRoZSByZXZpZXcgZW52aXJvbm1lbnQgaGFkIG5vIGF1ZGlvKS4gVmVyaWZ5IGFnYWluc3QgdGhlIG9yaWdpbmFsIGJlZm9yZSBzaGlwcGluZyBzb3VuZCBmb3IgdGhpcyBzdHlsZTsgdGhlIHZpc3VhbCByZWNpcGUgYmVsb3cgaXMgZnVsbHkgdmVyaWZpZWQuCgoqKkxvb2sqKjoKLSBGdWxsLWJsZWVkIG11c3RhcmQteWVsbG93IHZlcnRpY2FsIGdyYWRpZW50IGAjRjdCNTAwYCAodG9wKSDihpIgYCNGRkQyM0ZgIChib3R0b20pOyBhIHB1cmUtYmxhY2sgdmFyaWFudCBpcyB1c2VkIGZvciBob29rIGNhcmRzLiBJbmsgaXMgYCMxMTExMTFgLgotIEhlcm8gbnVtYmVyczogZXh0cmEtYm9sZCByb3VuZGVkIGdlb21ldHJpYyBzYW5zIChOdW5pdG8gRXh0cmFCb2xkIC8gQmFsb28tbGlrZTsgQ0pLOiBoZWF2eSByb3VuZGVkIGJvbGQpLCBwdXJlIGJsYWNrLCBIVUdFICh+MTXigJMyMCUgb2YgZnJhbWUgaGVpZ2h0KSwgdGlsdGVkIOKIkjLCsCB0byDiiJI0wrAsIHRob3VzYW5kcyBzZXBhcmF0b3JzLgotIEljb25zOiBmbGF0IGJsYWNrIHNpbGhvdWV0dGVzIHdpdGggc29mdCBkcm9wIHNoYWRvd3MgKHBlb3BsZSBjcm93ZHMgPSAiZGVtYW5kIiBtZXRhcGhvciwgZ29sZCBiYXJzKTsgc3ViamVjdCBpY29uIGFzIG9yYW5nZSBgI0Y3OTMxQWAgY2lyY2xlIHdpdGggd2hpdGUgZ2x5cGgsIG9yIGJsYWNrIGNpcmNsZSB3aXRoIGdvbGQgZ2x5cGguCi0gR3JpZDogbWluaW1hbCBkYXNoZWQgZ3JheS1iZWlnZSBsaW5lcyAoYCNDOUI4OTZgLCB+MnB4KSwgb25lIHRoaWNrIGJsYWNrIGF4aXMgYmFyIGF0IHRoZSBmYXIgbGVmdDsgbm8gYXhpcyBsYWJlbHMuCgoqKlNpZ25hdHVyZSBtb3ZlcyoqOgoxLiAqKk9kb21ldGVyIGNvdW50LXVwKiog4oCUIHRoZSBudW1iZXIgUk9MTFMgdXAgZmFzdCAofjHigJMycywgZWFzZS1vdXQgY3ViaWMpLCBkaWdpdHMgbW90aW9uLWJsdXJyZWQgbWlkLXJvbGwsIGxhbmRzIHdpdGggYSB+Mi1mcmFtZSBzZXR0bGUgKG5vIG92ZXJzaG9vdCBib3VuY2UpLgoyLiAqKlNlbGYtZHJhd2luZyBsaW5lIGNoYXJ0Kiog4oCUIHZlcnkgdGhpY2sgYmxhY2sgc3Ryb2tlICh+MTRweCBhdCAxMDgwIHdpZGUsIHNsaWdodCBoYW5kLWRyYXduIHdvYmJsZSkgZHJhd3MgbGVmdOKGknJpZ2h0IG92ZXIgfjNzOyBhIGdsb3dpbmcgd2hpdGUgcGVuLXRpcCBkb3Qgd2l0aCBzb2Z0IGhhbG8gcmlkZXMgdGhlIGxlYWRpbmcgZWRnZS4gR3JpZCBmYWRlcyBpbiBmaXJzdCAofjAuNXMpLgozLiAqKlN5bmNlZCBjb3VudGVyKiog4oCUIHdoaWxlIHRoZSBsaW5lIGNsaW1icywgdGhlIGhlcm8gbnVtYmVyIGJlbG93IGNvdW50cyB1cCBpbiBzeW5jOyBhZnRlciBpdCBsYW5kcywgYSB0aGljayBibGFjayB1bmRlcmxpbmUgYmFyIGRyYXdzIGJlbmVhdGggaXQgbGVmdOKGknJpZ2h0ICh+MC42cykuCjQuICoqUGVhayBtYXJrZXIqKiDigJQgYXQgdGhlIHBlYWssIHRoZSBzdWJqZWN0IGljb24gaW4gYSBjaXJjbGUgcG9wcyBpbiAofjAuMjVzIHNjYWxlLXVwKTsgYSBicmllZiB2YXJpYW50IGVtaXRzIHRoaW4gd2hpdGUgY29uY2VudHJpYyByaXBwbGUgcmluZ3MgYXJvdW5kIHRoZSBpY29uLgo1LiAqKkNvbXBhcmlzb24gcGFpcioqIOKAlCB0d28gaXRlbXMgc2lkZSBieSBzaWRlLCBpY29uICsgbGFiZWwgKyBoZXJvIG51bWJlciBlYWNoLCBzYW1lIHR5cGUgdHJlYXRtZW50Lgo2LiAqKlByb3BvcnRpb24gZ3JpZCoqIOKAlCBpY29ucyBpbiBhIGdyaWQgYXBwZWFyIHJvdyBieSByb3c7IGdob3N0ZWQvdHJhbnNsdWNlbnQgdnMgc29saWQgZW5jb2RlcyB0aGUgcmF0aW8uCjcuICoqU2VjdGlvbiBwdW5jdHVhdGlvbioqIOKAlCBmdWxsLXNjcmVlbiBjb2xvciBjYXJkIHdpdGggb25lIGh1Z2UgdGlsdGVkIG51bWJlci93b3JkIGJldHdlZW4gc2VjdGlvbnMuCgoqKlJoeXRobSoqOiBlYWNoIGRhdGEgZ3JhcGhpYyBob2xkcyB+NOKAkzhzLCB0aGVuIGEgSEFSRCBDVVQgYmFjayB0byB0aGUgdGFsa2luZyBoZWFkLiBObyB3aXBlcy9kaXNzb2x2ZXMuIFRoZSByZWZlcmVuY2UgYnVybnMgY2FwdGlvbnMgYXMgYSBibGFjayB0cmFuc2x1Y2VudCByb3VuZGVkIGJhciAod2hpdGUgYm9sZCBwcmltYXJ5IGxpbmUgb3ZlciBzbWFsbGVyIHNlY29uZGFyeSBsaW5lKS4K
+# Animation Recipes
+
+Reusable patterns from a production bilingual talking-head project.
+
+## Hook (opening kinetic typography)
+
+**Pattern**: transparent PNG sequence overlaid on the talking head (`hook_frames/%04d.png`).
+**Script**: `make_hook.py`
+
+- Big keywords type out character-by-character (typewriter, ~0.10–0.14s/char) synced to speech.
+- Style: plain white text, no gradient/glow/background (recommended default). Thin dark outline only if readability needs it — the reference production used pure white with zero stroke.
+- Position: above head or below chin, NEVER over eyes/face.
+- Popups (mascot, logo, quote grids) use spring scale-in (`ease-out-back`), positioned to avoid face. Images pop as white-border stickers — never as a circular avatar PiP of the creator (tried, rejected — looked odd).
+- 8-item grids: 4 cols × 2 rows fits better than 2×4 for 9:16; keep clear of subtitle zone (bottom 400px).
+
+**Timing rule**: hook is ~8s; every element must land on its spoken word (check `subs_full.ass` timestamps).
+
+## White cards & split-screen (scenes without B-roll) — DEFAULT
+
+**Pattern**: clean Meta-style info card on top, person below (`make_cards_v2.py` → `cardN_anim.mp4`).
+**When**: scene has no B-roll. This replaced dark cards as the production default.
+
+- Layout: card on top (1080×700 for a 1080×1920 canvas), person below as full-width crop (1080×1220, i.e. `crop=1080:1220:0:<top>`). Measure the person shot's face position per video and set the crop offset so the subtitle zone stays clear of the face.
+- Animation: card slides in from the top (0.4s ease-out) → bullet typewriter (~14 chars/s, blue cursor) → slides out at scene end. Person punch-in 1.15× and shift down, synced to the card entrance (0.4s ease), so the head stays fully visible — never cut off at the card edge.
+- **Use it literally**: when the narration says the other half of the screen should show the mentioned content ("as I say this point, the other half of the screen shows it"), cut to this split-screen and actually show it. Not deprecated.
+- SFX: a light pop on card entrance (one of the two approved pop variants); never whoosh.
+
+### Legacy: dark-card segments (opt-in only)
+
+Kept only for creators who explicitly ask. Full-screen dark video with staggered reveals (`make_anims_v2.py` → `animNd.mp4`).
+**When**: only if the creator explicitly requests dark cards — otherwise use white cards above.
+
+Elements, in order:
+1. Small pill label top-left (e.g. "Muse") — fades in at 0–0.3s.
+2. Title — typewriter at 0.3s (~0.15s/char), accent color on keyword.
+3. Content box — rounded rect with glowing border, fades + rises in at 1.5–1.8s.
+4. Flow indicator (optional) — animated dots/line showing a process (e.g. phone → GitHub), loops for the segment duration.
+5. Bilingual caption bottom — fades in with the content box.
+
+**Critical**: first text visible within 0.3s of segment start. Background has slow-drifting glow orbs so no frame is fully static.
+
+**SFX**: pop on each element appearance. In `build_full.py`, add delayed pop instances:
+```python
+for tt in [84.8, 86.3, 110.3, 111.5]:  # absolute seconds
+    sfx.append(f"[17:a]adelay={int(tt*1000)}|{int(tt*1000)},volume=0.30[tx{int(tt*10)}]")
+```
+And include every `[tx...]` label in the `amix` input list — a missing label fails the whole build (`rc: 234`).
+
+## B-roll beats
+
+**Pattern**: full-screen cutaway with subtle motion (`beat_*.mp4` via `make_beats*.py`).
+- Source image → Ken Burns (slow zoom/pan) or gentle scale pulse.
+- Privacy: run `blur_broll.py` first; blur names, addresses, phones, company identifiers. Heavier is safer — she asked twice for more blurring on the government form.
+- Subtitles burn on top (from `subs_full.ass`).
+
+## Cards (white Meta style)
+
+**Pattern**: `make_cards_v2.py` → `cardN_anim.mp4`.
+- White card, blue→purple gradient hairline on top, SCENE number in Meta blue, centered dark-gray title, gray EN subtitle, blue-dot bullets, blue pill footer — all centered.
+- Animate: slide in from top (0.4s ease-out) → bullet typewriter (~14 chars/s, blue cursor) → slide out at scene end.
+- Person punch-in 1.15× synced to card entrance, head fully visible (NOT during the opening hook — hook keeps original framing 1:1).
+- Same card component doubles as the split-screen top card (see "White cards & split-screen" above).
+
+## On-camera overlays (person stays full-frame)
+
+**Pattern**: transparent PNG sequence composited directly over the talking head (person is never reframed away).
+
+- Type: playful handwritten font (ZCOOL KuaiLe for CJK), slight ~−1.2° tilt. Pure-white for hook-style keywords; large yellow handwritten type for key numbers/emphasis words (e.g. "7%", "80%"). **Never heavy bold sans over the person** — it reads stiff and old-fashioned.
+- Position: typewriter text in the upper third with a soft drop shadow, no boxes or backgrounds; positioned to avoid face and eyes.
+- Images: white-border stickers (logo, mascot, reference grabs) popping in at chest level with a slight wobble — never circular avatar PiP of the creator.
+- **Vary the method**: alternate between typewriter-above-the-head, pulled-down card, and sticker pops — never one technique for the whole video. A static full-screen text card is not a substitute.
+
+## Enumeration pop-ins
+
+**When**: the narration lists parallel items (e.g. "subtitles, animation, sound effects, materials").
+**Pattern**: one bubble/panel near the person; each item pops in as the speaker says it and stays — accumulating, never replacing. All items remain visible at the end of the list.
+
+## Sticker economy & content-drawn animations
+
+- Don't keep reusing just a mascot + logo sticker, and never force an ill-fitting sticker to fill space. If no brand sticker fits the moment, **draw a small animation from the narration itself**: e.g. an editing timeline with a playhead sweeping across when talking about editing, a red ✗ on a stalled clip when the narration says it wasn't working, a speech-bubble waveform for audio.
+- These micro-animations are also the fill for the no-dead-zone rule below.
+
+## Creator-presence & pacing rules (apply everywhere)
+
+- Full-screen graphic/editorial pages hold only a few seconds (**~5s max**) before hard-cutting back to the person. Person and graphics alternate through the video.
+- A visual change every **2–3s**, enforced even in pure talking stretches: no segment may sit static for several seconds. If nothing needs visualizing, add a sticker, a pop, or a small content-drawn animation — an empty frame is never acceptable (a few seconds of bare talking head reads as a dead zone).
+- These rules are the same principle as "no black frames" applied to motion.
+
+## Editorial explainer pages (reference style)
+
+**Reference**: full-screen animated explainer reels by sanjai.builds on Instagram (Dots/Muse/Grok comparison; Figma Make vs ChatGPT vs Claude test), frame-analyzed. No presenter — the pages themselves carry the narration. This recipe borrows that animation language and rhythm for talking-head videos.
+
+**Look — "editorial paper"** (hex approximations read from frames, close enough to recreate):
+- Background alternates per chapter: warm cream `#F2EFE9` (range #EFEDE8–#F3F1EB) ↔ near-black `#0E0E10`. Flat matte, never pure white; subtle vignette darkening at top/bottom edges. The light/dark full-page flip IS the chapter transition — hard cuts only, no slides/zooms/dissolves.
+- Text: near-black `#1B1B1B` on light pages, white on dark; secondary/micro text gray `#8E8E93` (light) / `#A8A8A8` (dark).
+- Headline: large transitional serif (Didone-like: Playfair Display / Editorial New; CJK: Noto Serif CJK), ~500–600 weight, roman + italic mixed. ONE word per headline in a colored script/italic accent — red `#E5484D`, blue `#2F7CF6`, green `#34C759`, orange `#E8622C`, salmon `#E8836B`, purple `#8B6FD8`, or a pink→orange→purple gradient. Accent never covers a whole sentence.
+- Elements: white `#FFFFFF` cards (radius ~18–24px on 1080-wide canvas, soft neutral shadow) holding chat bubbles, app rows, calendar tiles (blue `#2F7CF6` date block), notification cards, tab rows (active tab filled `#2F7CF6`); pill tags; black micro-badges (solid black pill, white micro-text, e.g. "∞ REPEATS"); thin dotted connector lines (light gray, ~2–3px dots); circular avatar chips; skeleton placeholder bars `#E6E3DC`; photo cards with dark scrim + serif overlay text; green-check `#34C759` / red-X `#E5484D` icon badges. Small geometric sans for labels/pills/captions. Crisp digital lines, no hand-drawn texture.
+
+**Page layout (9:16, 1080×1920)** — strictly centered composition, side margins ~90–120px (content ≈ 75–80% of width), one idea per page, only 3–7 elements, generous negative space:
+- Top ~12%: chapter pill-nav, centered (`01 … / 02 … / 03 …`, small uppercase sans, wide letter-spacing, ~22–26px; active pill = black fill + white text on light pages, white fill + black text on dark; inactive = transparent with thin gray outline `#C9C7C1`).
+- ~15–35%: micro kicker (uppercase, ~0.15–0.2em tracking, ~20–26px, gray) directly above the headline; headline block starts ~180–220px from top, ~100–130px type, line-height ~1.05–1.15, 2–4 short lines, centered.
+- ~35–80%: the animated artifact — cards, comparison table (avatar columns × rows), node diagram, wireframe (dashed outline, dimension label like "390 × 844" in micro-type). Card-internal text is left-aligned; everything else centered.
+- ~85–92%: caption strip, centered, max 2 lines, ~60px clear of the bottom edge (in the reference: bold sans karaoke, ~36–44px).
+
+**Entrance grammar (the core of the style)**:
+- Headline appears WORD BY WORD (~0.25–0.4s per word), lip-synced; the accent word pops in slightly after its neighbors.
+- Body elements stagger in one every ~0.5–1s, each triggered by the next narration phrase: cards slide up + fade; pills pop with a tiny scale bounce; dotted lines DRAW progressively node→node (~1s); table rows fill left→right as skeleton bars, then resolve into real content.
+- Text/prompt cards type character-by-character with a blinking caret (~30–50ms/char).
+- Wireframes build progressively: dashed outline → skeleton blocks → filled content → floating pill tags pop in around it; checkmarks/dimensions annotate last.
+- **Accumulation, not replacement**: elements stay; the page builds up. Never clear the page mid-build.
+
+**Rhythm**: page hold ~4–7s (longer on artifact pages so the build finishes); new reveal every ~1–2s, one per narration phrase; chapter change = hard cut + background flip.
+
+**Talking-head adaptation**:
+- The creator stays full-screen talking; cut to an editorial page only while explaining a concept/list/comparison, then hard-cut back. Cap each page at ~5s — split longer explanations across multiple short pages interleaved with the person (in the original no-presenter reels, 4–7s holds are fine; inside talking-head videos they aren't).
+- Chapter pill-nav maps to scene pills (`01 … · 02 …`), active = current scene.
+- Keep the production's subtitle format burned over the page's bottom zone (the reference uses bold-sans karaoke word-by-word captions — an alternative if the format allows single-language captions).
+- Pick a default page tone (near-black pages suit modern setups; cream is the contrast flip) and stay consistent within a video.
+- On editorial pages, the creator's mascot may sit at a page corner as a silent host (optional, per creator approval) — this is a mascot sticker, NOT a circular face avatar.
+
+## Build & composite
+
+`build_full.py` assembles: `[src][cards][beats][anims][sfx][hook_frames]` via one `filter_complex`.
+- Video: `x264`/`libx264`, `yuv420p`, 1080×1920.
+- Audio: voice = `atrim`/`asetpts` only; SFX mixed with `amix=normalize=0`.
+- Subtitles burned with `ass` filter from `subs_full.ass`.
+
+**Copy-paste gotcha**: `cp -r /tmp/hook hook_frames` does NOT replace an existing dir — it nests. Always `rm -rf hook_frames` first.
+
+## Number/data presentation (chart style)
+
+**Reference**: 大方BigFang, "Will Bitcoin Really Hit $1 Million Per Coin?" (YouTube), frame-analyzed. A dedicated style for presenting NUMBERS in finance/data explainers. The reference is 16:9; the proportions below adapt to 9:16 (hero number ≈ 15–20% of frame height; chart in the middle band; keep the subtitle safe zone clear).
+**⚠️ Sound design NOT verified in the source analysis** (the review environment had no audio). Verify against the original before shipping sound for this style; the visual recipe below is fully verified.
+
+**Look**:
+- Full-bleed mustard-yellow vertical gradient `#F7B500` (top) → `#FFD23F` (bottom); a pure-black variant is used for hook cards. Ink is `#111111`.
+- Hero numbers: extra-bold rounded geometric sans (Nunito ExtraBold / Baloo-like; CJK: heavy rounded bold), pure black, HUGE (~15–20% of frame height), tilted −2° to −4°, thousands separators.
+- Icons: flat black silhouettes with soft drop shadows (people crowds = "demand" metaphor, gold bars); subject icon as orange `#F7931A` circle with white glyph, or black circle with gold glyph.
+- Grid: minimal dashed gray-beige lines (`#C9B896`, ~2px), one thick black axis bar at the far left; no axis labels.
+
+**Signature moves**:
+1. **Odometer count-up** — the number ROLLS up fast (~1–2s, ease-out cubic), digits motion-blurred mid-roll, lands with a ~2-frame settle (no overshoot bounce).
+2. **Self-drawing line chart** — very thick black stroke (~14px at 1080 wide, slight hand-drawn wobble) draws left→right over ~3s; a glowing white pen-tip dot with soft halo rides the leading edge. Grid fades in first (~0.5s).
+3. **Synced counter** — while the line climbs, the hero number below counts up in sync; after it lands, a thick black underline bar draws beneath it left→right (~0.6s).
+4. **Peak marker** — at the peak, the subject icon in a circle pops in (~0.25s scale-up); a brief variant emits thin white concentric ripple rings around the icon.
+5. **Comparison pair** — two items side by side, icon + label + hero number each, same type treatment.
+6. **Proportion grid** — icons in a grid appear row by row; ghosted/translucent vs solid encodes the ratio.
+7. **Section punctuation** — full-screen color card with one huge tilted number/word between sections.
+
+**Rhythm**: each data graphic holds ~4–8s, then a HARD CUT back to the talking head. No wipes/dissolves. The reference burns captions as a black translucent rounded bar (white bold primary line over smaller secondary line).

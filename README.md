@@ -1,1 +1,101 @@
-IyB0YWxraW5nLWhlYWQtdmlkZW8tZWRpdAoKRnVsbC1waXBlbGluZSBlZGl0aW5nIGZvciB0YWxraW5nLWhlYWQgdmlkZW9zIOKAlCBmcm9tIHJhdyBmb290YWdlIHRvIHB1Ymxpc2gtcmVhZHkgTVA0LgoKVGhpcyBpcyB0aGUgZXhhY3QgcGlwZWxpbmUgSSB1c2UgZm9yIG15IG93biBiaWxpbmd1YWwgKENoaW5lc2UvRW5nbGlzaCkgdGFsa2luZy1oZWFkIGNoYW5uZWw6IHRyYW5zY3JpcHRpb24gd2l0aCBodW1hbiB2ZXJpZmljYXRpb24sIGtpbmV0aWMgdHlwb2dyYXBoeSBob29rcywgYW5pbWF0ZWQgZGFyayBjYXJkcywgQi1yb2xsIGJlYXRzIHdpdGggcHJpdmFjeSBibHVycmluZywgYmlsaW5ndWFsIHN1YnRpdGxlcywgYW5kIGEgc3RyaWN0IFFBIGNoZWNrbGlzdC4KCj4gKipMYW5ndWFnZSBub3RlKio6IHRoZSByZWZlcmVuY2UgaW1wbGVtZW50YXRpb24gdXNlcyBDaGluZXNlL0VuZ2xpc2ggc3VidGl0bGVzLCBidXQgdGhlIHBpcGVsaW5lIHdvcmtzIGZvciBhbnkgbGFuZ3VhZ2UgcGFpciDigJQgc2VlICpBZGFwdGluZyB0byBvdGhlciBsYW5ndWFnZXMqIGJlbG93LgoKIyMgSG93IGRvZXMgaXQgd29yaz8KCllvdSBoYW5kIG92ZXIgYSAqKnNvdXJjZSB2aWRlbyoqICh5b3UgdGFsa2luZyB0byBjYW1lcmEpLiBBICoqc2NyaXB0KiogaGVscHMgd2l0aCBhY2N1cmFjeSBidXQgaXMgb3B0aW9uYWwg4oCUIHRoZSBwaXBlbGluZSB0cmFuc2NyaWJlcyB5b3VyIHNwZWVjaCBhdXRvbWF0aWNhbGx5LiBUaGUgcGlwZWxpbmUgdGFrZXMgaXQgZnJvbSB0aGVyZSBpbiBmaXZlIHN0YWdlczoKCiMjIyAxLiBJbmdlc3QgJiBraWNrb2ZmCllvdXIgZm9vdGFnZSBnb2VzIGludG8gYSBwcm9qZWN0IGZvbGRlciB1bnRvdWNoZWQuIFRocmVlIHF1aWNrIHF1ZXN0aW9ucyBsb2NrIHRoZSBjcmVhdGl2ZSBkaXJlY3Rpb246IGFzcGVjdCByYXRpbyAoOToxNi8xNjo5KSwgY2FyZCBzdHlsZSwgYW5kIG1haW4gZm9ybWF0IChrbm93bGVkZ2UgZXhwbGFpbmVyIC8gb3BpbmlvbiBtb25vbG9ndWUgLyBjYXJkLW9ubHkpLiBJZiB5b3UgcHJlLXRyaW1tZWQgdGhlIHZpZGVvIHlvdXJzZWxmLCB0aGF0IGN1dCBpcyB0cmVhdGVkIGFzIGZpbmFsIOKAlCB0aGUgcGlwZWxpbmUgbmV2ZXIgcmUtY3V0cyB5b3VyIHdvcmRzLgoKIyMjIDIuIFRyYW5zY3JpYmUgJiB2ZXJpZnkKVGhlIGF1ZGlvIGlzIHRyYW5zY3JpYmVkIHdvcmQtYnktd29yZCB3aXRoIHRpbWVzdGFtcHMgKGZhc3Rlci13aGlzcGVyKS4gSWYgeW91IHByb3ZpZGVkIGEgc2NyaXB0LCBpdCdzIHVzZWQgYXMgYSByZWZlcmVuY2UgZm9yIGJyYW5kIG5hbWVzIGFuZCB0ZWNobmljYWwgdGVybXMuIFlvdSBnZXQgdGhlIHRyYW5zY3JpcHQgdG8gY2hlY2sgKipiZWZvcmUqKiBhbnl0aGluZyBpcyBidXJuZWQgaW4g4oCUIGJlY2F1c2UgY3JlYXRvcnMgYWQtbGliLCBhbmQgdGhlIHN1YnRpdGxlcyBtdXN0IG1hdGNoIHdoYXQgd2FzIGFjdHVhbGx5IHNhaWQuCgojIyMgMy4gR3JhcGhpY3MKVGhpcyBpcyB3aGVyZSB0aGUgdmlkZW8gY29tZXMgYWxpdmUuIEZvdXIgYW5pbWF0aW9uIHN5c3RlbXMsIGFsbCBnZW5lcmF0ZWQgZnJhbWUtYWNjdXJhdGVseSB3aXRoIFB5dGhvbi9QaWxsb3c6CgotICoqSG9vayoqIOKAlCBraW5ldGljIHR5cG9ncmFwaHkgb3ZlciB5b3VyIG9wZW5pbmcgc2hvdC4gS2V5d29yZHMgdHlwZSBvdXQgY2hhcmFjdGVyLWJ5LWNoYXJhY3RlciBzeW5jZWQgdG8geW91ciBzcGVlY2gsIHdpdGggcG9wdXBzIChsb2dvcywgbWFzY290cywgdG9waWMgZ3JpZHMpIHRoYXQgc3ByaW5nIGluIHdpdGhvdXQgY292ZXJpbmcgeW91ciBmYWNlLgotICoqRGFyayBjYXJkcyoqIOKAlCBmb3Igc2NlbmVzIHdpdGhvdXQgQi1yb2xsLiBBIGRhcmsgZ2xvd2luZyBjYW52YXMgd2hlcmUgdGhlIHRpdGxlIHR5cGVzIG91dCwgY29udGVudCBzbGlkZXMgaW50byBhIGdsb3dpbmcgYm94LCBhbmQgYSBzdWJ0bGUgZmxvdyBhbmltYXRpb24gKGUuZy4gcGhvbmUg4oaSIEdpdEh1Yikga2VlcHMgdGhlIGZyYW1lIGFsaXZlLiBGaXJzdCB0ZXh0IGFwcGVhcnMgd2l0aGluIDAuMyBzZWNvbmRzIOKAlCBuZXZlciBhIGJsYWNrIGhvbGQuCi0gKipCLXJvbGwgYmVhdHMqKiDigJQgZnVsbC1zY3JlZW4gY3V0YXdheXMgd2l0aCBzbG93IEtlbiBCdXJucyBtb3Rpb24uIEZhY2VzLCBuYW1lcywgYWRkcmVzc2VzLCBhbmQgcGhvbmUgbnVtYmVycyBhcmUgYmx1cnJlZCBhdXRvbWF0aWNhbGx5IGJlZm9yZSBhbnl0aGluZyBzaGlwcy4KLSAqKldoaXRlIGNhcmRzKiog4oCUIGNsZWFuIE1ldGEtc3R5bGUgaW5mbyBjYXJkcyAoY2VudGVyZWQgdGl0bGUsIGJ1bGxldHMsIGZvb3RlciBwaWxsKSB0aGF0IHNsaWRlIGluLCB0eXBlIG91dCB0aGVpciBidWxsZXRzLCBhbmQgc2xpZGUgYXdheSB3aGlsZSB5b3Uga2VlcCB0YWxraW5nLgoKIyMjIDQuIFRyYW5zaXRpb25zICYgc291bmQKQ3Jvc3NmYWRlcyBvciBoYXJkIGN1dHMgb25seSDigJQgbm8gYmxhY2sgZmxhc2hlcywgbm8gM0QgZmxpcHMuIFNvdW5kIGVmZmVjdHMgY29tZSBmcm9tIGEgdGlueSBhcHByb3ZlZCBsaWJyYXJ5ICh0d28gcG9wIHZhcmlhbnRzKTsgZWFjaCBvbmUgaXMgcGxhY2VkIGRlbGliZXJhdGVseSBvbiBhIHZpc3VhbCBiZWF0LCBuZXZlciBzcHJpbmtsZWQgZm9yIHNob3cuIFlvdXIgdm9pY2UgaXMgbmV2ZXIgZmlsdGVyZWQsIG5vcm1hbGl6ZWQsIG9yICJlbmhhbmNlZCIg4oCUIHdoYXQgeW91IHJlY29yZGVkIGlzIHdoYXQgc2hpcHMuCgojIyMgNS4gQ29tcG9zaXRlLCBRQSAmIGRlbGl2ZXJ5CkV2ZXJ5dGhpbmcgaXMgYXNzZW1ibGVkIGluIGEgc2luZ2xlIGZmbXBlZyBwYXNzOiB2aWRlbyBzZWdtZW50cywgYnVybmVkLWluIHN1YnRpdGxlcywgYW5kIG1peGVkIGF1ZGlvLiBUaGVuIGV2ZXJ5IHNlZ21lbnQgdHlwZSBnZXRzIGEgZnJhbWUtZ3JhYiBRQSBjaGVjayAoZmFjZSBjbGVhcj8gdGV4dCBjbGVhciBvZiBmYWNlPyBzdWJ0aXRsZXMgY2xlYXIgb2YgZ3JhcGhpY3M/IHByaXZhY3kgYmx1cnMgaW50YWN0PyBhdWRpbyBsZXZlbHMgc3RhYmxlPykuIE9ubHkgdGhlbiBkb2VzIHRoZSBNUDQgc2hpcC4KCiMjIEZlYXR1cmVzCgotICoqQmlsaW5ndWFsIHN1YnRpdGxlcyoqIOKAlCB0d28gbGFuZ3VhZ2VzIGluIG9uZSBzdWJ0aXRsZSB0cmFjayAocHJpbWFyeSBvbiB0b3AsIEVuZ2xpc2ggYmVsb3cpLCBwb3NpdGlvbmVkIGluIHRoZSBwbGF0Zm9ybSBzYWZlIHpvbmUgKFRpa1RvayBib3R0b20gbmF2IG5ldmVyIGNvdmVycyB0aGVtKQotICoqS2luZXRpYyB0eXBvZ3JhcGh5IGhvb2tzKiog4oCUIHR5cGV3cml0ZXIgcmV2ZWFscyBzeW5jZWQgdG8gc3BlZWNoLCB3aXRoIHNwcmluZy1pbiBwb3B1cHMKLSAqKkRhcmstY2FyZCBhbmltYXRpb25zKiog4oCUIGdsb3dpbmcgc3RhZ2dlcmVkIHJldmVhbHMgZm9yIEItcm9sbC1sZXNzIHNjZW5lcywgd2l0aCBsb29waW5nIGZsb3cgaW5kaWNhdG9ycwotICoqUHJpdmFjeS1zYWZlIEItcm9sbCoqIOKAlCBhdXRvbWF0aWMgYmx1cnJpbmcgb2YgbmFtZXMsIGFkZHJlc3NlcywgcGhvbmVzLCBjb21wYW55IGlkZW50aWZpZXJzCi0gKipXaGl0ZSBpbmZvIGNhcmRzKiog4oCUIGNlbnRlcmVkLCBicmFuZC1jbGVhbiwgd2l0aCB0eXBld3JpdGVyIGJ1bGxldHMKLSAqKlVudG91Y2hlZCBhdWRpbyoqIOKAlCB5b3VyIHZvaWNlIHNoaXBzIGV4YWN0bHkgYXMgcmVjb3JkZWQ7IFNGWCBtaXhlZCB3aXRob3V0IGxldmVsIGRyaWZ0Ci0gKipGcmFtZS1sZXZlbCBRQSoqIOKAlCBldmVyeSBzZWdtZW50IHR5cGUgdmlzdWFsbHkgdmVyaWZpZWQgYmVmb3JlIGRlbGl2ZXJ5CgojIyBIb3cgdG8gdXNlIGl0CgojIyMgQXMgYW4gQUkgc2tpbGwKTG9hZCBgU0tJTEwubWRgIGludG8geW91ciBBSSBhc3Npc3RhbnQuIFRoZW4ganVzdCBzYXk6Cgo+ICJIZXJlJ3MgbXkgdmlkZW8gYW5kIHNjcmlwdCDigJQgZWRpdCBpdC4iCgpUaGUgc2tpbGwgZHJpdmVzIHRoZSB3aG9sZSBwaXBlbGluZTogaXQgYXNrcyB0aGUgdGhyZWUga2lja29mZiBxdWVzdGlvbnMsIHRyYW5zY3JpYmVzLCBzZW5kcyB5b3UgdGhlIHRyYW5zY3JpcHQgZm9yIHZlcmlmaWNhdGlvbiwgYnVpbGRzIGdyYXBoaWNzLCBjb21wb3NpdGVzLCBRQXMsIGFuZCBkZWxpdmVycyB0aGUgTVA0LgoKIyMjIFByb2plY3QgbGF5b3V0CmBgYAp2aWRlby08dG9waWM+LwogIHNyYy5tcDQgICAgICAgICAgICAgICMgeW91ciBzb3VyY2UgKG5ldmVyIG1vZGlmaWVkKQogIHNjcmlwdHMvICAgICAgICAgICAgICMgYnVpbGQgc2NyaXB0cyAodHJhbnNjcmliZSwgbWFrZV9ob29rLCBtYWtlX2FuaW1zLCBidWlsZF9mdWxsLCAuLi4pCiAgc3Vic19mdWxsLmFzcyAgICAgICAgIyBiaWxpbmd1YWwgc3VidGl0bGVzIChwcmltYXJ5IG9uIHRvcCwgRW5nbGlzaCBiZWxvdykKICBzZngvICAgICAgICAgICAgICAgICAjIHlvdXIgYXBwcm92ZWQgc291bmQgZWZmZWN0cwogIGJyb2xsLyAgICAgICAgICAgICAgICMgQi1yb2xsIHNvdXJjZXMgKyBwcml2YWN5LXNhZmUgdmVyc2lvbnMKICBob29rX2ZyYW1lcy8gICAgICAgICAjIHJlbmRlcmVkIGhvb2sgUE5HIHNlcXVlbmNlICh0cmFuc3BhcmVudCkKICBjYXJkTl9hbmltLm1wNCAvIGJlYXRfKi5tcDQgLyBhbmltTmQubXA0ICAjIGdyYXBoaWMgc2VnbWVudHMKeW91cl9maWxlcy88dG9waWM+LWZpbmFsLXZOLm1wNCAgIyB0aGUgZGVsaXZlcmFibGUKYGBgCgojIyMgUmV2aXNpb24gd29ya2Zsb3cKRm9yIGxheW91dCBjaGFuZ2VzOiBjdXQgYSBzbWFsbCBzYW1wbGUgKGZpcnN0IDIgc2NlbmVzKSBmb3IgYXBwcm92YWwgYmVmb3JlIHRoZSBmdWxsIHJlLXJlbmRlci4gQnVtcCB0aGUgZmlsZW5hbWUgdmVyc2lvbiAoYC12MmAg4oaSIGAtdjNgKSBvbiByZS1kZWxpdmVyaWVzIHNvIHBsYXllcnMgZG9uJ3Qgc2VydmUgYSBjYWNoZWQgb2xkIGN1dC4KCiMjIFdoYXQncyBpbnNpZGUKCi0gKipgU0tJTEwubWRgKiog4oCUIHRoZSBvcGVyYXRpb25hbCBjb3JlOiA1LXN0ZXAgd29ya2Zsb3csIHByb2plY3QgbGF5b3V0LCBvcGVyYXRpbmcgcnVsZXMuIExvYWQgdGhpcyB0byBydW4gdGhlIHBpcGVsaW5lLgotICoqYHJlZmVyZW5jZXMvcGlwZWxpbmUubWRgKiog4oCUIHRoZSBmdWxsIDEyLXN0ZXAgZGV0YWlsZWQgcGlwZWxpbmUgKGVudmlyb25tZW50IHNldHVwLCB0cmFuc2NyaXB0aW9uLCBzZWdtZW50cywgZ3JhcGhpY3MsIHN1YnRpdGxlcywgU0ZYLCBjb21wb3NpdGUsIFFBLCBkZWxpdmVyeSwgcmV2aXNpb25zKS4KLSAqKmByZWZlcmVuY2VzL2FuaW1hdGlvbnMubWRgKiog4oCUIGFuaW1hdGlvbiByZWNpcGVzOiBob29rIHR5cGV3cml0ZXIsIGRhcmstY2FyZCBzdGFnZ2VyZWQgcmV2ZWFscywgQi1yb2xsIGJlYXRzLCB3aGl0ZSBjYXJkcy4gSW5jbHVkZXMgdGltaW5nIHZhbHVlcywgU0ZYIHN5bmMgcGF0dGVybnMsIGFuZCBwcm9kdWN0aW9uIGdvdGNoYXMuCi0gKipgcmVmZXJlbmNlcy9oYXJkLXJ1bGVzLm1kYCoqIOKAlCByZWQgbGluZXMgKGF1ZGlvIHVudG91Y2hlZCwgbm8gYmxhY2sgZnJhbWVzLCBzdWJ0aXRsZSBzYWZldHkgem9uZXMsIHByaXZhY3kgYmx1cnJpbmcpIGFuZCBjcmVhdG9yIHByZWZlcmVuY2VzLgoKIyMgUmVxdWlyZW1lbnRzCgotIGZmbXBlZyB3aXRoIGxpYmFzcwotIFB5dGhvbiAzICsgUGlsbG93IChmb3IgZnJhbWUtYWNjdXJhdGUgZ3JhcGhpYyBnZW5lcmF0aW9uKQotIGZhc3Rlci13aGlzcGVyIChmb3IgdHJhbnNjcmlwdGlvbjsgdXNlIGBsYW5ndWFnZT0nemgnYCBmb3IgQ2hpbmVzZSBzcGVlY2gpCi0gTm90byBTYW5zIENKSyBvciBlcXVpdmFsZW50IChmb3Igc3VidGl0bGUgcmVuZGVyaW5nKQoKIyMgQWRhcHRpbmcgdG8gb3RoZXIgbGFuZ3VhZ2VzCgpUaGUgc3VidGl0bGUgc3lzdGVtIGlzIGxhbmd1YWdlLWFnbm9zdGljLiBUbyB1c2UgYSBkaWZmZXJlbnQgbGFuZ3VhZ2UgcGFpcjoKCjEuICoqVHJhbnNjcmlwdGlvbioqOiBzZXQgZmFzdGVyLXdoaXNwZXIncyBgbGFuZ3VhZ2VgIHBhcmFtZXRlciAoZS5nLiBgbGFuZ3VhZ2U9J2VzJ2AgZm9yIFNwYW5pc2gsIGAnamEnYCBmb3IgSmFwYW5lc2UpLiBUaGUgY3VycmVudCBkZWZhdWx0IGlzIGAnemgnYCBmb3IgQ2hpbmVzZS4KMi4gKipTdWJ0aXRsZSBzdHlsZXMqKjogYHN1YnNfZnVsbC5hc3NgIGRlZmluZXMgdHdvIHN0eWxlcyAocHJpbWFyeSArIEVuZ2xpc2gpLiBSZW5hbWUvcmVzdHlsZSB0aGVtIGZvciB5b3VyIHBhaXIg4oCUIHRoZSBvbmUtRGlhbG9ndWUtZXZlbnQgKyBzdHlsZS1zd2l0Y2ggcGF0dGVybiAoYHtcckVOfWApIHdvcmtzIGZvciBhbnkgdHdvIGxhbmd1YWdlcy4KMy4gKipGb250cyoqOiBzd2FwIE5vdG8gU2FucyBDSksgZm9yIGEgZm9udCBjb3ZlcmluZyB5b3VyIHNjcmlwdC4KCkV2ZXJ5dGhpbmcgZWxzZSAoaG9va3MsIGNhcmRzLCBCLXJvbGwsIFFBKSBpcyBsYW5ndWFnZS1pbmRlcGVuZGVudC4KCiMjIExpY2Vuc2UKCk1JVCDigJQgdXNlIGl0LCBmb3JrIGl0LCBtYWtlIGl0IHlvdXJzLgo=
+# talking-head-video-edit
+
+Full-pipeline editing for talking-head videos — from raw footage to publish-ready MP4.
+
+This is the exact pipeline I use for my own bilingual (Chinese/English) talking-head channel: transcription with human verification, kinetic typography hooks, white info cards and split-screen reveals, on-camera overlays, B-roll beats with privacy blurring, bilingual subtitles, and a strict QA checklist.
+
+> **Language note**: the reference implementation uses Chinese/English subtitles, but the pipeline works for any language pair — see *Adapting to other languages* below.
+
+## How does it work?
+
+You hand over a **source video** (you talking to camera). A **script** helps with accuracy but is optional — the pipeline transcribes your speech automatically. The pipeline takes it from there in five stages:
+
+### 1. Ingest & kickoff
+Your footage goes into a project folder untouched. Three quick questions lock the creative direction: aspect ratio (9:16/16:9), card style, and main format (knowledge explainer / opinion monologue / card-only). If you pre-trimmed the video yourself, that cut is treated as final — the pipeline never re-cuts your words.
+
+### 2. Transcribe & verify
+The audio is transcribed word-by-word with timestamps (faster-whisper). If you provided a script, it's used as a reference for brand names and technical terms. You get the transcript to check **before** anything is burned in — because creators ad-lib, and the subtitles must match what was actually said.
+
+### 3. Graphics
+This is where the video comes alive. Six animation systems, all generated frame-accurately with Python/Pillow:
+
+- **Hook** — kinetic typography over your opening shot. Keywords type out character-by-character synced to your speech, with popups (logos, mascots, topic grids) that spring in without covering your face.
+- **White cards & split-screen** — clean Meta-style info cards (centered title, bullets, footer pill). The card slides in from the top (0.4s ease-out) while you keep talking below in a full-width crop with a gentle 1.15× punch-in — the split-screen literally shows what you're mentioning. Use it especially when your narration says the other half of the screen should show the mentioned content.
+- **On-camera overlays** — you stay full-frame while playful handwritten type (ZCOOL KuaiLe for CJK, slight −1.2° tilt) appears in the upper third with a soft shadow, white-border image stickers pop in at chest level, and key numbers go big in yellow handwriting. Vary the method — typewriter above the head vs. a pulled-down card — never one trick for the whole video.
+- **Editorial explainer pages** — full-screen animated "editorial paper" pages for concepts/lists/comparisons: serif headline building word by word, elements staggering in one per phrase, cream ↔ near-black chapter flips with hard cuts. Hold only a few seconds (~5s max), then hard-cut back to you.
+- **B-roll beats** — full-screen cutaways with slow Ken Burns motion. Faces, names, addresses, and phone numbers are blurred automatically before anything ships.
+- **Legacy dark cards (opt-in only)** — the older glowing dark-canvas system still exists if a creator explicitly asks, but it is no longer the default.
+
+Pacing rules apply to everything: a visual change every 2–3s, no motion dead zones even in pure talking stretches (small content-drawn animations fill gaps — e.g. an editing timeline when you talk about editing), and enumerated lists pop in one by one in a bubble/panel, accumulating in sync with speech.
+
+### 4. Transitions & sound
+Crossfades or hard cuts only — no black flashes, no 3D flips. Sound effects come from a tiny approved library (two pop variants); each one is placed deliberately on a visual beat, never sprinkled for show. Your voice is never filtered, normalized, or "enhanced" — what you recorded is what ships.
+
+### 5. Composite, QA & delivery
+Everything is assembled in a single ffmpeg pass: video segments, burned-in subtitles, and mixed audio. Then every segment type gets a frame-grab QA check (face clear? text clear of face? subtitles clear of graphics? privacy blurs intact? audio levels stable?). Only then does the MP4 ship.
+
+## Features
+
+- **Bilingual subtitles** — two languages in one subtitle track (primary on top, English below), positioned in the platform safe zone (TikTok bottom nav never covers them)
+- **Kinetic typography hooks** — typewriter reveals synced to speech, with spring-in popups
+- **White cards & split-screen** — clean centered cards sliding in from the top over your talking shot, bullets typing out
+- **On-camera overlays** — handwritten type in the upper third, white-border stickers at chest level, yellow handwritten emphasis numbers
+- **Creator-presence pacing** — full-screen graphic pages hold ~5s max, then cut back; a visual change every 2–3s, no motion dead zones
+- **Enumeration pop-ins** — listed items pop in one by one in a bubble/panel, accumulating in sync with speech
+- **Editorial explainer pages** — animated paper-style pages for concepts/lists/comparisons with hard-cut chapter flips
+- **Privacy-safe B-roll** — automatic blurring of names, addresses, phones, company identifiers
+- **Untouched audio** — your voice ships exactly as recorded; SFX mixed without level drift
+- **Frame-level QA** — every segment type visually verified before delivery
+
+## How to use it
+
+### As an AI skill
+Load `SKILL.md` into your AI assistant. Then just say:
+
+> "Here's my video and script — edit it."
+
+The skill drives the whole pipeline: it asks the three kickoff questions, transcribes, sends you the transcript for verification, builds graphics, composites, QAs, and delivers the MP4.
+
+### Project layout
+```
+video-<topic>/
+  src.mp4              # your source (never modified)
+  scripts/             # build scripts (transcribe, make_hook, make_anims, build_full, ...)
+  subs_full.ass        # bilingual subtitles (primary on top, English below)
+  sfx/                 # your approved sound effects
+  broll/               # B-roll sources + privacy-safe versions
+  hook_frames/         # rendered hook PNG sequence (transparent)
+  cardN_anim.mp4 / beat_*.mp4 / animNd.mp4  # graphic segments
+your_files/<topic>-final-vN.mp4  # the deliverable
+```
+
+### Revision workflow
+For layout changes: cut a small sample (first 2 scenes) for approval before the full re-render. Bump the filename version (`-v2` → `-v3`) on re-deliveries so players don't serve a cached old cut.
+
+## What's inside
+
+- **`SKILL.md`** — the operational core: 5-step workflow, project layout, operating rules. Load this to run the pipeline.
+- **`references/pipeline.md`** — the full 12-step detailed pipeline (environment setup, transcription, segments, graphics, subtitles, SFX, composite, QA, delivery, revisions).
+- **`references/animations.md`** — animation recipes: hook typewriter, white cards & split-screen, on-camera overlays, editorial pages, B-roll beats, number charts (and the legacy dark-card recipe, opt-in only). Includes timing values, SFX sync patterns, and production gotchas.
+- **`references/hard-rules.md`** — red lines (audio untouched, no black frames, subtitle safety zones, privacy blurring) and creator preferences.
+
+## Requirements
+
+- ffmpeg with libass
+- Python 3 + Pillow (for frame-accurate graphic generation)
+- faster-whisper (for transcription; use `language='zh'` for Chinese speech)
+- Noto Sans CJK or equivalent (for subtitle rendering)
+
+## Adapting to other languages
+
+The subtitle system is language-agnostic. To use a different language pair:
+
+1. **Transcription**: set faster-whisper's `language` parameter (e.g. `language='es'` for Spanish, `'ja'` for Japanese). The current default is `'zh'` for Chinese.
+2. **Subtitle styles**: `subs_full.ass` defines two styles (primary + English). Rename/restyle them for your pair — the one-Dialogue-event + style-switch pattern (`{\rEN}`) works for any two languages.
+3. **Fonts**: swap Noto Sans CJK for a font covering your script.
+
+Everything else (hooks, cards, B-roll, QA) is language-independent.
+
+## License
+
+MIT — use it, fork it, make it yours.
